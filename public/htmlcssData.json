@@ -24,14 +24,14 @@
         {
             "id": 4,
             "projectName": "Responsive Navbar",
-            "url": "https://responsive-nav-htmlcss.netlify.app/",
+            "url": "https://responsive-navbar-htmlcss.netlify.app/",
             "thumbnail": "",
             "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/04-responsive-navbar"
         },
         {
             "id": 5,
             "projectName": "Responsive Sidebar",
-            "url": "https://responsive-sidebar-htmlcss.netlify.app/",
+            "url": "https://sidebar-htmlcss.netlify.app/",
             "thumbnail": "",
             "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/05-sidebar"
         },
@@ -101,7 +101,7 @@
         {
             "id": 15,
             "projectName": "Vanilla Slider",
-            "url": "https://vanilla-slider-htmlcss.netlify.app/",
+            "url": "https://slider-htmlcss.netlify.app/",
             "thumbnail": "",
             "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/15-slider"
         },
@@ -115,14 +115,14 @@
         {
             "id": 17,
             "projectName": "Random User",
-            "url": "https://random-user-project-htmlcss.netlify.app/",
+            "url": "https://random-user-htmlcss.netlify.app/",
             "thumbnail": "",
             "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/17-random-user"
         },
         {
             "id": 18,
             "projectName": "Get Fav Drink Cocktail",
-            "url": "https://get-fav-drink-cocktail-htmlcss.netlify.app/",
+            "url": "https://get-your-fav-drink-htmlcss.netlify.app/",
             "thumbnail": "",
             "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/18-get-fav-drink-new"
         },
@@ -136,7 +136,7 @@
         {
             "id": 21,
             "projectName": "Pagination",
-            "url": "https://pagination-project-htmlcss.netlify.app/",
+            "url": "https://pagination-htmlcss.netlify.app/",
             "thumbnail": "",
             "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/21-pagination"
         }
